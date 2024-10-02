@@ -3,7 +3,8 @@
 ### Es una batalla de siglos atrás
 
 **Un conflicto que durará mucho tiempo**  
-*Donde los paises implicados pierden muchas vidas*
+*Donde los paises implicados pierden muchas vidas*  
+~~Hay muchas organizaciones metidas en el comflicto tanto directa e indirectamente~~
 * Paises implicados:
    1. USA
    2. ISRAEL
