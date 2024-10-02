@@ -2,7 +2,8 @@
 ## Subtitulo: Inicio del conflicto
 ### Es una batalla de siglos atrás
 
-**Un conflicto que durará mucho tiempo**
+**Un conflicto que durará mucho tiempo**  
+*Donde los paises implicados pierden muchas vidas*
 * Paises implicados:
    1. USA
    2. ISRAEL
