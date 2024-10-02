@@ -1,7 +1,8 @@
-# Conflicto en Palestina 
-
+# Conflicto en Palestina
 ## Subtitulo: Inicio del conflicto
 ### Es una batalla de siglos atrás
+
+**Un conflicto que durará mucho tiempo**
 * Paises implicados:
    1. USA
    2. ISRAEL
@@ -9,6 +10,6 @@
    4. OTAN
    
 Palestina sufre en daños
-![Palest](https://img.freepik.com/fotos-premium/futuro-que-conflicto-israeli-palestino-haya-resuelto-ambas-partes-vivan-paz-prosperidad-conflicto-israel-autoridades-palestinas-ilustracion_850000-41458.jpg)
+![Palest](https://img.freepik.com/fotos-premium/arte-vectorial-crisis-palestina-e-israeli-como-tragedia-guerra-medio-oriente-como-simbolo_114016-8578.jpg)
 
 ![Palestina](./img/palestina.png)
