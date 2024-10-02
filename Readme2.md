@@ -4,7 +4,8 @@
 
 **Un conflicto que durará mucho tiempo**  
 *Donde los paises implicados pierden muchas vidas*  
-~~Hay muchas organizaciones metidas en el comflicto tanto directa e indirectamente~~
+~~Hay muchas organizaciones metidas en el comflicto tanto directa e indirectamente~~  
+**El problema es que se _EXCUSAN_ en proteger al débil**
 * Paises implicados:
    1. USA
    2. ISRAEL
