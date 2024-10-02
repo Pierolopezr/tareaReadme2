@@ -7,7 +7,8 @@
 ~~Hay muchas organizaciones metidas en el comflicto tanto directa e indirectamente~~  
 **El problema es que se _EXCUSAN_ en proteger al débil**  
 ***Y estos solo quieren sacar su beneficio propio***
-<sub> sobre todo la OTAN y la ONU</sub>
+<sub> sobre todo la OTAN y la ONU</sub>  
+Y<sup> sobre todo la OTAN y la ONU</sup>
  * Paises implicados:
    1. USA
    2. ISRAEL
