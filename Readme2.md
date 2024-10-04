@@ -13,7 +13,7 @@ Y<sup> sobre todo la OTAN y la ONU</sup>
    1. USA
    2. ISRAEL
    3. Palestina
-   4. OTAN
+   4. OTAN  
  
 Palestina sufre en daños
 ![Palest](https://img.freepik.com/fotos-premium/arte-vectorial-crisis-palestina-e-israeli-como-tragedia-guerra-medio-oriente-como-simbolo_114016-8578.jpg)
