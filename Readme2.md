@@ -27,5 +27,5 @@ Palestina sufre en daños
 <h1 style="color:red;">Conflicto:</h1>
 
 ***
-este es mi codigo  
+_este es mi codigo_
 ***
