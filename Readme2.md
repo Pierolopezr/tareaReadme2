@@ -19,3 +19,8 @@ Palestina sufre en daños
 ![Palest](https://img.freepik.com/fotos-premium/arte-vectorial-crisis-palestina-e-israeli-como-tragedia-guerra-medio-oriente-como-simbolo_114016-8578.jpg)
 
 ![Palestina](./img/palestina.png)
+
+> El mundo va cada vez en peor.  
+`Y la contaminación del planeta va casa vez peor`
+
+<h1 style="color:red;">Conflicto:</h1>
